@@ -1,0 +1,20 @@
+# package directories
+node_modules
+jspm_packages
+
+# Webpack directories
+.webpack
+
+# Serverless directories
+.serverless
+
+# secrets files
+.secrets.json
+.secrets.dev.json
+.secrets.uat.json
+.secrets.prod.json
+credentials.json
+
+# logs
+logs
+*.log
