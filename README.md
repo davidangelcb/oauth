@@ -1,5 +1,5 @@
 # README
-Gamil refresh token
+With Gmail refresh token
 1) npm install
 
 2) npx tsc --init
